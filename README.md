@@ -1,12 +1,9 @@
 # NeuroCLF-GNN-Benchmark
 
-Official repository for the paper:
+Official code repository for **“A Benchmark Analysis of Graph and Non-Graph Methods for *Caenorhabditis elegans* Neuron Classification.”**
 
-[A Benchmark Analysis of Graph and Non-Graph Methods for *Caenorhabditis elegans* Neuron Classification](https://arxiv.org/abs/2603.02241v1)
-
-Jingqi Lu, Keqi Han, Yun Wang, Lu Mi, Carl Yang
-
-This paper is currently under review. A link to a preprint or the final published version will be added upon availability.
+**Authors:** Jingqi Lu, Keqi Han, Yun Wang, Lu Mi, and Carl Yang  
+**Paper:** [arXiv:2603.02241v1](https://arxiv.org/abs/2603.02241v1)
 
 ## Environment Setup
 First, run the following to set up the environment with necessary dependencies:
