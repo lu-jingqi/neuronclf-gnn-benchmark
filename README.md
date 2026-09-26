@@ -2,7 +2,7 @@
 
 Official repository for the paper:
 
-A Benchmark Analysis of Graph and Non-Graph Methods for *Caenorhabditis elegans* Neuron Classification
+[A Benchmark Analysis of Graph and Non-Graph Methods for *Caenorhabditis elegans* Neuron Classification](https://arxiv.org/abs/2603.02241v1)
 
 Jingqi Lu, Keqi Han, Yun Wang, Lu Mi, Carl Yang
 
